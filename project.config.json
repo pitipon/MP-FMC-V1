@@ -9,7 +9,6 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.9.94",
-	"appid": "touristappid",
 	"projectname": "MP-FMC-v1",
 	"condition": {
 		"search": {
